@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header{
+    color: #ff5757;
+    color: #ffb01f;
+    color: #00bd91;
+   color: #1125d4 ;
+}
